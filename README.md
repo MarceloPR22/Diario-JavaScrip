@@ -7,7 +7,7 @@ Para **HTML** poderá acessar -> **https://developer.mozilla.org/pt-BR/docs/Lear
 
 Para **CSS** poderá acessar  -> **https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps**
 
-Após estudo **HTML** e **CSS**
+Após estudo **HTML** e **CSS**:
 
 Fazer o Download do **Visual Studio Code** 
 através do link -> **https://code.visualstudio.com/**
