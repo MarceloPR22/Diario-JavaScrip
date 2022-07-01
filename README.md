@@ -8,5 +8,5 @@ Para HTML poderá acessar -> https://developer.mozilla.org/pt-BR/docs/Learn/HTML
 Para CSS poderá acessar  -> https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps
 
 Fazer o Download do Visual Studio Code 
-link -> https://code.visualstudio.com/
+Através do link -> https://code.visualstudio.com/
 
